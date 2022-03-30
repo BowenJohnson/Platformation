@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1057263595535",
+    "firebase_url": "https://platformation-6492e-default-rtdb.firebaseio.com",
+    "project_id": "platformation-6492e",
+    "storage_bucket": "platformation-6492e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057263595535:android:0eceb6c54dae93870c337a",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.SP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057263595535-4o3k0h8iffa1c6mpb7fodqkcbe0q47rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5rpW9QUhwBT7eSR85XhmO2Z-CckUKCDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057263595535-4o3k0h8iffa1c6mpb7fodqkcbe0q47rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9eecd373e6d604a4289c8666406d9a48, type: 3}
+  m_Name: Red_GobBow_BaseData
+  m_EditorClassIdentifier: 
+  maxHealth: 6
+  damageBounce: 1
+  stunResistPoints: 3
+  stunRecoverTime: 1
+  wallCheckDist: 0.2
+  ledgeCheckDist: 0.2
+  groundCheckRadi: 0.2
+  minAggroDist: 2.5
+  maxAggroDist: 3
+  closeRngActDist: 0.45
+  whatIsGround:
+    serializedVersion: 2
+    m_Bits: 8
+  whatIsPlayer:
+    serializedVersion: 2
+    m_Bits: 256

@@ -1,0 +1,3 @@
+-loop last 4 frames to extend the tornato 
+
+-tornatofx is the same size as tornato, you can put the tornatofx animation at the end of tornato animation.
