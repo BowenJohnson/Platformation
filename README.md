@@ -5,3 +5,5 @@ Player survival mode game data is stored remotely on Firebase and used to popula
 Story mode has a linear level progression with checkpoints, unlimited player respawning, and a boss monster at the end of a few levels. 
 
 Survival mode allows the player to try and see how far they can go before their character dies. After the character dies the player's best high score results are recorded into the database and displayed on the scoreboard.
+
+You can find a working, playable, build of the game zipped in the 'Game_Builds' folder. Download and extract Platformation.zip then run SP.exe to start the game. How-to-play instructions are also included in the zip.
